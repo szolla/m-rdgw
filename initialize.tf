@@ -25,7 +25,7 @@ terraform {
     storage_account_name = "fgterratest"
     container_name       = "testing"
     key                  = "terraform.tfstate"
-    access_key           = "KerLsV335vcJ0zMcls9j+eKKSA/TPRnlZukEwJckVSISLvpKLMlcT/oowifoM/E6H5EKfK0Vx6qy/Br0UgPfLg=="
+    
   }
 }
 
